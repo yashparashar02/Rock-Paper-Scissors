@@ -2,11 +2,12 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    background-color: #ffe5ec;
 }
 
 h1 {
-    background-color: #1b263b;
-    color: #f5ebe0;
+    background-color: #780000;
+    color: #fdf0d5;
     height: 5rem;
     line-height: 5rem;
 }
@@ -59,8 +60,8 @@ img {
 }
 
 #msg {
-    background-color: #081b31;
-    color: #f5ebe0;
+    background-color: #e63946;
+    color: #1d3557;
     font-size: 2rem;
     display: inline;
     padding: 1rem;
